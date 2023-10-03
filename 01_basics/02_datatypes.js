@@ -13,7 +13,7 @@ console.log(3
     let state; // undefined
     
 
-    // Datatypes
+    // Primitive Datatypes
 
     // number => 2 to power 53
     // bigint
@@ -22,4 +22,10 @@ console.log(3
     // null => standalone value
     // undefined => 
     // symbol => unique
+    
+    // object
+
+    console.log(typeof undefined); //undefined
+    console.log(typeof null); //null
+    
 
